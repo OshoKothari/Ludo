@@ -1,5 +1,3 @@
-// controllers/gameController.js
-
 const db = require('../config/database'); // Ensure you have your database connection set up correctly
 
 // Function to create a new room
