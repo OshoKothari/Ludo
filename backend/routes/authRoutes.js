@@ -1,4 +1,3 @@
-// routes/authRoutes.js
 const express = require('express');
 const { login, validateOTP } = require('../controllers/authController');
 const router = express.Router();
