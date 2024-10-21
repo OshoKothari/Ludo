@@ -1,5 +1,3 @@
-// controllers/authController.js
-
 const supabase = require('@supabase/supabase-js');
 const jwt = require('jsonwebtoken');
 const db = require('../config/database'); // Import the database configuration

@@ -1,5 +1,3 @@
-// routes/gameRoutes.js
-
 const express = require('express');
 const { createRoom, listRooms, joinRoom } = require('../controllers/gameController');
 const authenticateToken = require('../middleware/authMiddleware');
